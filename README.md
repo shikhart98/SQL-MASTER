@@ -8,8 +8,10 @@ is the one which defines some basic definitions in the table uniquely.
 hence for the purpose of assigning IDs and all , we use primary keys. 
 syntax :: id INETEGER PRIMARY KEY
 
-# a "group by" claus is necessary before "having" statement.
+# a "group by" claus 
+is necessary before "having" statement.
 
+SEE OUTPUTS HERE: https://www.khanacademy.org/computer-programming/new/sql
 
 --------------------------------------------------------
 CREATE TABLE groceries (id INTEGER PRIMARY KEY, name TEXT , quantity INTEGER,aisle INTEGER);
